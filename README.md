@@ -12,8 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
-- Currently a 1B Computer Engineering student in the University of Waterloo.
+- Incoming 2A Computer Engineering student in the University of Waterloo.
 - Worked with folks @Heka-Health. Check them out here: https://dev.heka.ca/
+- Currently working @Manorlead.
 - Aspiring full stack developer with an interest in learning more about backend technologies.
 - Open to any opportunities that may pop up and to learn any new things!
 
