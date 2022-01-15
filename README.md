@@ -12,15 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
-- Incoming 2A Computer Engineering student in the University of Waterloo.
-- Worked with folks @Heka-Health. Check them out here: https://dev.heka.ca/
-- Currently working @Manorlead.
+- 2A Computer Engineering student @ University of Waterloo.
 - Aspiring full stack developer with an interest in learning more about backend technologies.
 - Open to any opportunities that may pop up and to learn any new things!
 
 ### Skills
-- Languages: Javascript, HTML/CSS/SCSS, C++, Python, SQL
+- Languages: Javascript/Typescript, Java, HTML/CSS/SCSS, C++, Python, SQL
 - Tools and Technologies: React.js,
+Spring Boot,
 PostgreSQL,
 Stripe,
 SQLite,
