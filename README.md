@@ -12,23 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
-- 3A Computer Engineering student @ University of Waterloo.
-- Aspiring full-stack developer with an interest in learning more about backend technologies.
+- 4A Computer Engineering student @ University of Waterloo.
+- Aspiring software engineer interested in learning more about backend and cloud technologies.
 - Open to any opportunities that may pop up!
 
 ### Skills
-- Languages: Python, Javascript/Typescript, Java, HTML/CSS/SCSS, C, C++, SQL
-- Tools and Technologies: AWS Serverless, Apigee, PCF, JFrog Artifactory, React.js,
-Spring Boot,
-PostgreSQL,
-Stripe,
-SQLite,
-Firebase,
-SendGrid,
-Mongoose,
-Prisma,
-Sequelize,
-Express,
-Node.js,
-Git/GitHub
+- Languages: Python, JavaScript, TypeScript, Bash, SQL, C/C++, Java, HTML/CSS
+- Tools and Technologies: Azure Kubernetes Service, Docker, Helm, GitHub Actions, Azure DevOps, Terraform, Flask,
+Express.js, AWS Lambda, AWS CloudFormation, PostgreSQL, React.js
 
