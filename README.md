@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 -->
 
 - 4A Computer Engineering student @ University of Waterloo.
+- Previously worked at Manulife, Genesys Cloud
 - Aspiring software engineer interested in learning more about backend and cloud technologies.
 - Open to any opportunities that may pop up!
 
