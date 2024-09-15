@@ -11,10 +11,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 -->
+✨[Visit my portfolio here!](https://icy-wave-0a6b41c1e.5.azurestaticapps.net/)✨
 
 - 4A Computer Engineering student @ University of Waterloo.
 - Previously worked at Manulife, Genesys Cloud
-- Aspiring software engineer interested in learning more about backend and cloud technologies.
+- Aspiring software engineer interested in learning more about UI, backend and cloud technologies.
 - Open to any opportunities that may pop up!
 
 ### Skills
